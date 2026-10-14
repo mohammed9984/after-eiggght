@@ -1,0 +1,152 @@
+[
+  {
+    "name": "menu: categories render (hides empty page-1 categories)",
+    "ok": true,
+    "extra": "11 categories"
+  },
+  {
+    "name": "menu: table number from QR shown",
+    "ok": true,
+    "extra": ""
+  },
+  {
+    "name": "menu: no horizontal scroll at 390px",
+    "ok": true,
+    "extra": ""
+  },
+  {
+    "name": "menu: AFTER 8 CLUB link prominent in hero area",
+    "ok": true,
+    "extra": ""
+  },
+  {
+    "name": "menu: unverified prices show \"Ask at the counter\"",
+    "ok": true,
+    "extra": ""
+  },
+  {
+    "name": "menu: category chip scrolls to its section",
+    "ok": true,
+    "extra": "top=126"
+  },
+  {
+    "name": "menu: a11y basics (alt text, labels, names)",
+    "ok": true,
+    "extra": ""
+  },
+  {
+    "name": "menu: touch targets >= 44px",
+    "ok": true,
+    "extra": ""
+  },
+  {
+    "name": "menu: Arabic switches to RTL, Arabic names + currency",
+    "ok": true,
+    "extra": ""
+  },
+  {
+    "name": "menu (ar): no horizontal scroll",
+    "ok": true,
+    "extra": ""
+  },
+  {
+    "name": "club: sign-up shows 5-stamp card + personal QR + member code",
+    "ok": true,
+    "extra": "F3TJ-ZGM8"
+  },
+  {
+    "name": "club: card starts at 0 of 5",
+    "ok": true,
+    "extra": ""
+  },
+  {
+    "name": "club: no horizontal scroll",
+    "ok": true,
+    "extra": ""
+  },
+  {
+    "name": "club: a11y basics",
+    "ok": true,
+    "extra": ""
+  },
+  {
+    "name": "staff: camera path degrades to a clear message when QR scanning is unsupported/blocked",
+    "ok": true,
+    "extra": "This browser can’t scan QR codes. Type the member code below."
+  },
+  {
+    "name": "staff: the public menu QR is refused (never awards stamps)",
+    "ok": true,
+    "extra": ""
+  },
+  {
+    "name": "staff: manual member code finds the customer",
+    "ok": true,
+    "extra": ""
+  },
+  {
+    "name": "staff: below-minimum bill is rejected by the server",
+    "ok": true,
+    "extra": ""
+  },
+  {
+    "name": "staff: validated stamp added (1 of 5)",
+    "ok": true,
+    "extra": ""
+  },
+  {
+    "name": "club: customer sees the new stamp after staff validation",
+    "ok": true,
+    "extra": ""
+  },
+  {
+    "name": "club: five validated visits unlock the reward (redeemable next visit)",
+    "ok": true,
+    "extra": ""
+  },
+  {
+    "name": "staff: same-day redemption is locked",
+    "ok": true,
+    "extra": ""
+  },
+  {
+    "name": "staff: reward redeemed; card resets to 0",
+    "ok": true,
+    "extra": ""
+  },
+  {
+    "name": "club: customer card reset after redemption",
+    "ok": true,
+    "extra": ""
+  },
+  {
+    "name": "server: second redemption attempt is refused",
+    "ok": true,
+    "extra": ""
+  },
+  {
+    "name": "owner: edited + confirmed price appears on the public menu",
+    "ok": true,
+    "extra": ""
+  },
+  {
+    "name": "owner: dashboard has no horizontal scroll on a phone",
+    "ok": true,
+    "extra": ""
+  },
+  {
+    "name": "owner: a11y basics",
+    "ok": true,
+    "extra": ""
+  },
+  {
+    "name": "customer is forbidden from staff + owner APIs",
+    "ok": true,
+    "extra": ""
+  },
+  {
+    "name": "no unexpected console/page errors",
+    "ok": true,
+    "extra": ""
+  }
+]

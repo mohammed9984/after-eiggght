@@ -1,0 +1,13 @@
+{
+  "name": "after8-cafe",
+  "version": "0.1.0",
+  "private": true,
+  "description": "AFTER 8 café: QR digital menu (AR/EN) + AFTER 8 CLUB loyalty with staff validation and owner dashboard. Zero npm dependencies.",
+  "type": "module",
+  "engines": { "node": ">=22.13" },
+  "scripts": {
+    "start": "node server/index.js",
+    "test": "node --test --no-warnings test/rules.test.js",
+    "build:preview": "node scripts/build-preview.mjs"
+  }
+}
